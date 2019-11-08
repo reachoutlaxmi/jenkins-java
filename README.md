@@ -1,1 +1,1 @@
-# jenkins-java
+# xs-jenkins-02
